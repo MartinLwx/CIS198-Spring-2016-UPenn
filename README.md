@@ -13,6 +13,7 @@ The official github repo: <https://github.com/cis198-2016s/homework>
 - [x] [Hw00. Hello Rust & Hello Cargo!](./Hws/hw00)
 - [x] [Hw01. Rust Finger Exercises](./Hws/hw01)
 - [x] [Hw02. A Mediocre Binary Search Tree](./Hws/hw02)
+- [x] [Hw03. "Iterating" On Your Binary Search Tree](./Hws/hw03)
 
 
 ## Looking for answers for other cs-courses ?
