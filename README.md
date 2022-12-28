@@ -15,6 +15,7 @@ The official github repo: <https://github.com/cis198-2016s/homework>
 - [x] [Hw02. A Mediocre Binary Search Tree](./Hws/hw02)
 - [x] [Hw03. "Iterating" On Your Binary Search Tree](./Hws/hw03)
 - [x] [Hw04. Reverse Polish ~~Sausage~~ Notation Calculator](./Hws/hw04)
+- [x] [Hw05. The ~~Fun-Time Reference Sharing~~ Darkest Dungeon](./Hws/hw05)
 
 
 ## Looking for answers for other cs-courses ?
