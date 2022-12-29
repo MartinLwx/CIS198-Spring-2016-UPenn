@@ -1,6 +1,6 @@
 ## Hi 👋
 
-This is my personal learning record for CIS198-Spring-2016 of the university of Pennsylvania. Recently I want to learn a new programming language. After navigating through the many options, I learned that *Rust* has been the most popular language chosen by Stack Overflow for many years in a row. That's it!
+This is my personal learning record for CIS198. Rust Programming of the university of Pennsylvania. Recently I want to learn a new programming language. After navigating through the many options, I learned that *Rust* has been the most popular language chosen by Stack Overflow for many years in a row. That's it!
 
 ## Resources
 
@@ -16,6 +16,7 @@ The official github repo: <https://github.com/cis198-2016s/homework>
 - [x] [Hw03. "Iterating" On Your Binary Search Tree](./Hws/hw03)
 - [x] [Hw04. Reverse Polish ~~Sausage~~ Notation Calculator](./Hws/hw04)
 - [x] [Hw05. The ~~Fun-Time Reference Sharing~~ Darkest Dungeon](./Hws/hw05)
+- [x] [Hw06. BB-198 - A Bulletin Board System (BBS)](./Hws/hw06)
 
 
 ## Looking for answers for other cs-courses ?
