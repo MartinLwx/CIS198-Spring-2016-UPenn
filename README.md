@@ -17,6 +17,7 @@ The official github repo: <https://github.com/cis198-2016s/homework>
 - [x] [Hw04. Reverse Polish ~~Sausage~~ Notation Calculator](./Hws/hw04)
 - [x] [Hw05. The ~~Fun-Time Reference Sharing~~ Darkest Dungeon](./Hws/hw05)
 - [x] [Hw06. BB-198 - A Bulletin Board System (BBS)](./Hws/hw06)
+- [x] [Hw07. A Multithreaded Chat System](./Hws/hw07)
 
 
 ## Looking for answers for other cs-courses ?

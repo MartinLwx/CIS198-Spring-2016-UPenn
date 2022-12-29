@@ -1,0 +1,11 @@
+[package]
+name = "hw07"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hyper = "0.10"
+rustc-serialize = "0.3.24"
+websocket = "0.26.5"
